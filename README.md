@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer
 ------------------
 
-I am a dedicated second-year student pursuing a Bachelor's in Computer Science at the esteemed University of Negros Occidental - Recoletos. Currently, I hold the role of Vice President for Student Services at the Google Developer Student Club UNO-R Chapter, where I spearhead initiatives to foster a dynamic tech community. 💻 Tech Enthusiast: My programming journey encompasses proficiency in languages such as Python and Java, coupled with a specialized focus on back-end development. Aspiring to contribute to the cutting edge, my goal is to delve into the exciting realms of Machine Learning and AI. I still have a long way in my journey but I'm eager to learn.
+I am a dedicated second-year student pursuing a Bachelor's in Computer Science at the esteemed University of Negros Occidental - Recoletos. Currently, I hold the role of Vice President for Student Services at the Google Developer Student Club UNO-R Chapter, where I spearhead initiatives to foster a dynamic tech community.
+<br />
+<br />
+My programming journey encompasses proficiency in languages such as Python and Java, coupled with a specialized focus on back-end development. Aspiring to contribute to the cutting edge, my goal is to delve into the exciting realms of Machine Learning and AI. I still have a long way in my journey but I'm eager to learn.
 
 * 🌍  I'm based in the Philippines
 * ✉️  You can contact me at [aaron.lim.cstr@gmail.com](mailto:aaron.lim.cstr@gmail.com)
